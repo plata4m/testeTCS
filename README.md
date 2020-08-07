@@ -39,3 +39,8 @@ Interface client com lista de URL cadastradas e uma URL gerada randômicamente
 Os dados no Banco de Dados MySql. O arquivo com script de criação está no arquivo database_create.txt
 ![alt text](https://github.com/plata4m/testeTCS/blob/master/database.png)
 
+
+
+Diagrama de sequência
+![alt text](https://github.com/plata4m/testeTCS/blob/master/diagrama.png)
+
