@@ -19,4 +19,8 @@ Buscando URL
 ![alt text](https://github.com/plata4m/testeTCS/blob/master/RetrieveURL_ok.png)
 
 
+Buscando URL inexistente
+![alt text](https://github.com/plata4m/testeTCS/blob/master/RetrieveURL_notexist.png)
+
+
 
