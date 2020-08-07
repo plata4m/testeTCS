@@ -42,5 +42,5 @@ Os dados no Banco de Dados MySql. O arquivo com script de criação está no arq
 
 
 Diagrama de sequência
-![alt text](https://github.com/plata4m/testeTCS/blob/master/diagrama.png)
+![alt text](https://github.com/plata4m/testeTCS/blob/master/diagrama_sequencia.png)
 
