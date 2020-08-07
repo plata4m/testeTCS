@@ -36,6 +36,6 @@ Interface client com lista de URL cadastradas e uma URL gerada randômicamente
 ![alt text](https://github.com/plata4m/testeTCS/blob/master/tela_cloient_comurls_e_randomica.png)
 
 
-Os dados no Banco de Dados MySql
+Os dados no Banco de Dados MySql. O arquivo com script de criação está no arquivo database_create.txt
 ![alt text](https://github.com/plata4m/testeTCS/blob/master/database.png)
 
