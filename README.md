@@ -1,6 +1,7 @@
 # testeTCS
 Sistema de encurtamento de url. 
 Escrito em PHP, Html, Javascript, Jquery urilizando REST e Json com banco de dados MySql.
+Osistema funciona de forma assíncrona, sem refresh ou redirecionamento.
 
 # Prints dos testes da API
 Testes da api foram feitos com Insomnia.
