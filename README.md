@@ -1,6 +1,6 @@
 # testeTCS
 Sistema de encurtamento de url. 
-Escrito em PHP com Html, Javascript e Jquery com REST e Json.
+Escrito em PHP, Html, Javascript, Jquery urilizando REST e Json com banco de dados MySql.
 
 # Prints dos testes da API
 Testes da api foram feitos com Insomnia.
@@ -34,4 +34,8 @@ Interface client cadastrando uma  URL
 
 Interface client com lista de URL cadastradas e uma URL gerada randômicamente
 ![alt text](https://github.com/plata4m/testeTCS/blob/master/tela_cloient_comurls_e_randomica.png)
+
+
+Os dados no Banco de Dados MySql
+![alt text](https://github.com/plata4m/testeTCS/blob/master/database.png)
 
