@@ -1,5 +1,6 @@
 # testeTCS
-Sistema de encurtamento de url
+Sistema de encurtamento de url. 
+Escrito em PHP com Html, Javascript e Jquery com REST e Json.
 
 # Prints dos testes da API
 Testes da api foram feitos com Insomnia.
@@ -23,4 +24,14 @@ Buscando URL inexistente
 ![alt text](https://github.com/plata4m/testeTCS/blob/master/RetrieveURL_notexist.png)
 
 
+
+Interface client sem URL cadastrada
+![alt text](https://github.com/plata4m/testeTCS/blob/master/tela_cloient_semurl.png)
+
+
+Interface client cadastrando uma  URL
+![alt text](https://github.com/plata4m/testeTCS/blob/master/tela_cloient_cadastrandourll.png)
+
+Interface client com lista de URL cadastradas e uma URL gerada randômicamente
+![alt text](https://github.com/plata4m/testeTCS/blob/master/tela_cloient_comurls_e_randomica.png)
 
